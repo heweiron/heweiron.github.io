@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Weirong He",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://heweiron.github.io/images/weiron.png",
+    "email": "heweiron@hawaii.edu",
+    "phone": "808-589-7291",
+    "website": "https://heweiron.github.io",
+    "summary": "I am studying for a B.A. in Information and Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "801 South St. 1923",
+      "postalCode": "96813",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "heweiron",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://linkedin.com/in/weirong-he-65348819b"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "gamification",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "software development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "game design",
       "keywords": [
       ]
     }
