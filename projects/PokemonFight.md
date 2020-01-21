@@ -35,4 +35,4 @@ Playing Guide:
 Here is the address of my github repository https://github.com/heweiron/PokemonFightSystem
 download all the files and the main method is PokemonFightFrame.java.
   
-Source : https://github.com/heweiron/PokemonFightSystem
+Source : <a href="https://github.com/heweiron/PokemonFightSystem"><i class="large github icon "></i>heweiron/PokemonFightSystem</a>
