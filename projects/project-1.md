@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+public: false
 image: images/pokemonBall_.jpg
 title: PokemonFight
 permalink: projects/PokemonFight
