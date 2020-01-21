@@ -13,7 +13,7 @@ labels:
 summary: I made a Pokemon fight game gui based on ICS 211 homework.
 ---
 
-<div class="ui small rounded images">
+<div class="ui big rounded images">
   <img class="ui image" src="../images/GUI.png">
 
 </div>
