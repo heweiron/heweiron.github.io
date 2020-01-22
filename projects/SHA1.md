@@ -20,4 +20,4 @@ My algorithm can convert a txt file into a sequence of message digest with lette
 
 
 
-Source: <a href="https://github.com/heweiron/Snake"><i class="large github icon"></i>heweiron/Snake</a>
+Source: <a href="https://github.com/heweiron/SHA1"><i class="large github icon"></i>heweiron/SHA1</a>
