@@ -19,6 +19,9 @@ In cryptography, SHA-1 (Secure Hash Algorithm 1) is a cryptographic hash functio
 It was designed by the United States National Security Agency, and is a U.S. Federal Information Processing Standard.
 My algorithm can convert a txt file into a sequence of message digest with letter and number.The detail is in the pdf file named "FIPS180-1-SecureHashStandard.pdf" in my github repository: https://github.com/heweiron/SHA1
 
+I wrote this code with the instruction of my professor of ICS212 Lisa Miller. The code works perfectly.
+
+I have learned a lot from this assignment. It is very important to protect the security of computer file. This assignment also taught me how to use all skill that I learned from ICS212.
 Source: <a href="https://github.com/heweiron/SHA1"><i class="large github icon"></i>heweiron/SHA1</a>
 
 
