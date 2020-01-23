@@ -13,12 +13,12 @@ labels:
 As we know, there are many different coding languages and they all have some similarities and differences with each other. In the past week, I have learned a language called javascript which is very easy to use. In my opinion, javascript is a beautiful language and it has some special attraction to me. 
 
 The language I learned before are java, c and c++, so javascript is totally new to me. The first impression of javascript to me is that it is a very loose language. All variable can be initialized with var, for example, we can have var to replace string, int or other variable type. 
-```
+```JavaScript
 var s = “this is a string.”;
 var i = 0;
 ```
 Javascript has a significant difference from other languages, which is that objects are mutable in JavaScript. It is possible to add or delete properties to existing JavaScript objects. 
-```
+```JavaScript
 var student = {
   "name": "Adam",
   "age": 20
