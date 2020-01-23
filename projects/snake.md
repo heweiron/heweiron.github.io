@@ -25,4 +25,8 @@ There is still issue that the screen will blink which need to be solved.
 
 Here is my git hub repository of Snake, the program consists three file: {CarFrame.java  CarPanel.java  Snake.java}. The main method is inside CarFrame.java.
 
+I build this game all by myself. However, there is still some issue inside the code and I hope as I learning more about programming, i will fix this issue in the future.
+
+This game is the first game that I develop all by myself. It trained me the ability to design the UI, to test the game and to write a complicate code.
+
 Source: <a href="https://github.com/heweiron/Snake"><i class="large github icon"></i>heweiron/Snake</a>
