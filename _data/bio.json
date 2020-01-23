@@ -52,9 +52,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -63,13 +61,21 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
+    {
+      "institution": "Kapiolani Commnity College, Honolulu, HI",
+      "area": "Pre-Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2017-09-00",
+      "endDate": "2019-12-17",
+      "gpa": "3.8",
+      "courses": [
+      ]
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Information and Computer Science",
@@ -77,33 +83,19 @@
       "startDate": "2020-01-13",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": [ICS 311, ICS 314
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Kirin Restayrant",
+      "position": "Busser",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-05-20",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
