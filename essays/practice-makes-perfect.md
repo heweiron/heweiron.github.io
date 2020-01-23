@@ -7,7 +7,7 @@ date: 2020-01-22
 labels:
   - Software Engineering
   - Learning
-  -JavaScript
+  - JavaScript
 ---
 
 As we know, there are many different coding languages and they all have some similarities and differences with each other. In the past week, I have learned a language called javascript which is very easy to use. In my opinion, javascript is a beautiful language and it has some special attraction to me. 
