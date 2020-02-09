@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions, Good Answers
+title: Importance of standards
 # All dates must be YYYY-MM-DD format!
 date: 2015-09-08
 labels:
@@ -20,4 +20,4 @@ Back to the time when I first learned Java, the check style almost drives me cra
   
   After practice ESlint for a whole week, my skill on code style is improved a lot. The first time of practice with IntelliJ, it took me almost 30 minutes to solve the problem because of solving code style. After practice couple times, I only need 12 minutes to solve it. As I get more and more skilled on the code style solving,  the second assignment only took me 15 minutes at my first try which is already faster than the average speed.
   
-  There is another advantage of practice ESlint, which is it can help us learning a language better. Although different coding languages may have many differences, the coding standers required will be similar to each other. Some language even take it as a very serious task. For example, Python is a language that treat indent as a very important element. If you make mistake on the indent, the whole program may run to a wrong answer. In my conclusion, learning coding standers is very important for our computer science students. In spite of learning it is so much painful, but the outcome will make us appreciate with it.
+  There is another advantage of practice ESlint, which is it can help us learning a language better. Although different coding languages may have many differences, the coding standards required will be similar to each other. Some language even take it as a very serious task. For example, Python is a language that treat indent as a very important element. If you make mistake on the indent, the whole program may run to a wrong answer. In my conclusion, learning coding standards is very important for our computer science students. In spite of learning it is so much painful, but the outcome will make us appreciate with it.
