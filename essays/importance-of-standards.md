@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Importance of standards
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2020-02-12
 labels:
   - Learning
   - Javascript
