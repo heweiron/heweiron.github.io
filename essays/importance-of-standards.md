@@ -1,19 +1,19 @@
 ---
 layout: essay
 type: essay
-public: fasle
 title: Smart Questions, Good Answers
 # All dates must be YYYY-MM-DD format!
 date: 2015-09-08
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Learning
+  - Javascript
+  - Coding standards
 ---
 Back to the time when I first learned Java, the check style almost drives me crazy. I often complained about it with my friends that the checking of code style is useless. However, after using it couple years, I realized that the checking of code style is very useful for my coding. Therefore, after my first week of using ESlint with IntelliJ, I find that it is painful but it is also very useful for me to learning coding with Javascript.
 
 ##Complain about ESlint
   
+  <img class="ui tiny right spaced image" src="../images/E26.png">
   Writing code is difficult and ESlint make it become more challenging. The first assignment I wrote with IntelliJ is that write four functions to sum the numbers in the list and one of them need use underscore which is a Javascript library. After I finishing my code, ESlint keep showing that there is a weak warning of my underscore symbol. I tried so many different ways to solve it but none of them works. With the help  of my teacher, I finally found the problem which is that I did not turn on the underscore library. It took a lot of my time. In order to get the little green checkmark, I need spent more time on my coding. However, more time I spent on the code style, more knowledge I learned.
   
 ##Advantage of ESlint
