@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Importance of standards
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-12
+date: 2020-02-08
 labels:
   - Learning
   - Javascript
@@ -13,7 +13,7 @@ Back to the time when I first learned Java, the check style almost drives me cra
 
 ## Complain about ESlint
   
-<img class="ui large left floated image" src="../images/E26.png">
+<img class="ui large image" src="../images/E26.png">
 
   Writing code is difficult and ESlint make it become more challenging. The first assignment I wrote with IntelliJ is that write four functions to sum the numbers in the list and one of them need use underscore which is a Javascript library. After I finishing my code, ESlint keep showing that there is a weak warning of my underscore symbol. I tried so many different ways to solve it but none of them works. With the help  of my teacher, I finally found the problem which is that I did not turn on the underscore library. It took a lot of my time. In order to get the little green checkmark, I need spent more time on my coding. However, more time I spent on the code style, more knowledge I learned.
   
