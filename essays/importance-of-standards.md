@@ -9,6 +9,8 @@ labels:
   - Javascript
   - Coding standards
 ---
+<img class="ui large image" src="../images/ESlint.png">
+
 Back to the time when I first learned Java, the check style almost drives me crazy. I often complained about it with my friends that the checking of code style is useless. However, after using it couple years, I realized that the checking of code style is very useful for my coding. Therefore, after my first week of using ESlint with IntelliJ, I find that it is painful but it is also very useful for me to learning coding with Javascript.
 
 ## Complain about ESlint
