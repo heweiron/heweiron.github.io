@@ -6,9 +6,11 @@ date: 2020-03-31
 labels:
   - Software Engineering
   - Meteor
- authors: Weirong He, Tianhui Zhou
 ---
+authors: Weirong He, Tianhui Zhou
+
 <h1>Project: Homework Tracker</h1>
+
 <h3>Overview</h3>
 
 *The problem*: Many students have an issue of doing their homework on time because there are so many courses and they may mix up some homework and forget to do it. They need a notification to push them to finish their assignments.
