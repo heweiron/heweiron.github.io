@@ -11,7 +11,7 @@ labels:
 
 In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. Building a program is just like putting items into an empty room. The easiest way to do it is that directly put them inside the room. However, after putting too many items in the room, it becomes very difficult for us if we want to find something or make a change of a certain item. Therefore, some boxes may be very helpful. If we put some kind of items into the same box, then when we want to find this item we can directly go to that box and find that item easily. Learning of design patterns is like learning the rules of using these boxes to hold items. Actually, we all may have used some design patterns in our coding experiences already.
 
-<img class="ui medium left floated image" src="..images/mouse-click.png">
+<img class="ui medium left floated image" src="../images/mouse-click.png">
 
 ### Observer Pattern
 It is a very common pattern, and I used it a lot. In this pattern, whenever an object changes its state, its dependencies can get notification about it. This pattern is very important in coding. It is like applying for financial aid, and many students are waiting for their results. If all students don’t know when the application will be approved, and they have to call the financial aid office once a week, then the financial aid office will have a large amount of work to handle. The solution is when the result is ready, the financial aid office can call all students to let them know the result. The most common example is the event listener. The OnClick of a button can send notification of the state of the button to other objects to let them make a change of it. 
