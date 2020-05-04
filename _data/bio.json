@@ -52,7 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Semantic UI"
       ]
     },
     {
@@ -63,6 +64,14 @@
         "Ubuntu",
         "Git/GitHub"
       ]
+    },
+    {
+      "name": "Solutions Engineering, Testing & Optimization",
+      "level": "",
+    },
+    {
+      "name": "Object-Oriented Methodologies",
+      "level": "",
     }
   ],
   "education": [
@@ -74,6 +83,7 @@
       "endDate": "2019-12-17",
       "gpa": "3.8",
       "courses": [
+        ICS 111, ICS 141, ICS 211, ICS 212, ICS 241
       ]
     },
     {
@@ -82,7 +92,7 @@
       "studyType": "B.A.",
       "startDate": "2020-01-13",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "4.0",
       "courses": [ICS 311, ICS 314
       ]
     }
