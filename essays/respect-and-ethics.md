@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Ethic
 ---
-<img src="https://www.scu.edu/media/mobi/blog-variants/Ethics-Blog-760x550-760x550.png" width="300px" float="left">
+<img src="https://www.scu.edu/media/mobi/blog-variants/Ethics-Blog-760x550-760x550.png" width="300px" alt="ethics">
 
 ### Introduction
 

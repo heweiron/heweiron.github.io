@@ -8,7 +8,7 @@ labels:
   - Life
 ---
 
-<img class="ui medium left floated image" src="../images/COVID.png">
+<img class="ui medium left floated image" src="../images/COVID.png" alt="covid">
 
 <h3>Information about COVID-19</h3>
 
