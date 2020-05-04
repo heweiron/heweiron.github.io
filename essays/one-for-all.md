@@ -16,6 +16,8 @@ finish. Fortunately, those passed time is not wasted. From four months practicin
 software engineer concepts like coding standards and design pattern, and these knowledge from one class can also apply
  on my future
  life.
+ 
+ <img class="ui medium fluid image" src="../images/software.jpg" alt="software engineer">
 
 ### Coding Standards
 Coding standards are very important concept in web design because the readability of a code directly affect the
