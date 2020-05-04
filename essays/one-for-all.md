@@ -17,7 +17,7 @@ software engineer concepts like coding standards and design pattern, and these k
  on my future
  life.
  
- <img class="ui medium fluid image" src="../images/software.jpg" alt="software engineer">
+ <img class="ui fluid image" src="../images/software.jpg" alt="software engineer">
 
 ### Coding Standards
 Coding standards are very important concept in web design because the readability of a code directly affect the
