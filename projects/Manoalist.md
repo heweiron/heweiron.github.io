@@ -21,10 +21,12 @@ summary: ICS 314 final project which allows students to buy or sell stuffs.
 </div>
 
 ## Project Overview
+
 Manoalist is an application for UHM students to facilitate buying and selling of student-related goods. Students can
  and only can register with their UH email. After login, they can play two roles: Buyer and Seller.
  
- ### For Seller:
+### For Seller:
+
    - If users have items that they want to sell, they can click Sell button and post the information of
    item. 
    - Sellers can reply email from buyers who contact them. 
@@ -32,7 +34,8 @@ Manoalist is an application for UHM students to facilitate buying and selling of
     the deal.
    - Sellers can write a review for their item's buyer after close deal.
  
- ### For Buyer:
+### For Buyer:
+
    - Buyers can browse the store to see the items for sell.
    - If they see some items is not appropriate, they can click report button to send report information to the
     Administrator.
@@ -40,7 +43,8 @@ Manoalist is an application for UHM students to facilitate buying and selling of
    - After close the deal, buyers can rate the seller and leave a comment. 
    
    
-   ## My Contribution
+## My Contribution
+
 In this project, my job is focus on UI design. I did the UserHome page, ListItem page, EditItem page, EditProfile
  page, AdminHome page and all the functionality of these pages.
   
@@ -49,13 +53,14 @@ In this project, my job is focus on UI design. I did the UserHome page, ListItem
   Users can contact with sellers or buyers with our email system. 
   - Search and Category functionality to show items list
   
-   <img class="ui medium image" src="../images/manoalist-search.png" alt="search">
+   <img class="ui large image" src="../images/manoalist-search.png" alt="search">
    
   - Rating system which allows users to rate others.
   
-   <img class="ui medium image" src="../images/manoalist-rating.png" alt="rating">
+   <img class="ui large image" src="../images/manoalist-rating.png" alt="rating">
   
-  ## My Gain
+## My Gain
+
   From this project, I learned how to work with others to finish a team project. I also enhanced my skill of using
    semantic UI React and Javascript and learned how to deploy a website. This project is also my first real completed
     application so it also gave
