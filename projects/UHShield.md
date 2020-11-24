@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/uhShield.png
-title: Manoalist
+title: UHShield
 permalink: projects/UHShield
 # All dates must be YYYY-MM-DD format!
 date: 2020-11-24
@@ -16,9 +16,12 @@ summary: Mobile APP for UH buildings staffs to manage access of the building.
 ---
 
 <div class="ui big rounded images">
-  <img class="ui image" src="../images/manoalist-landing.png" alt="landing">
+  <img class="ui image" src="https://hacc.hawaii.gov/wp-content/uploads/2020/03/Combined-Logos.png" alt="HACC">
 
 </div>
+
+## HACC 2020
+<a href="https://hacc.hawaii.gov/">Hawaii Annual Code Challenge</a> is a hackathon that encouraged civic engagement with the local technology community in modernizing state functions and services for a more effective, efficient and open government. Participants can form a team and select one of the challenges from the list and provide their unique solution for it. This year, I attended HACC 2020 and won THIRD PLACE with this project.
 
 ## Project Overview
 
@@ -44,6 +47,12 @@ Some UH buildings required significant access control, and the building security
 ## My Contribution
 
 In this project, my job is focus on UI design and some core functionality. I designed sign in, sign up views, event row UI, and sponsor manage events view UI. I am proud of building a QR-Code generator and scanning functionality for eadily check in. In addition, I also make contribution on sending eamil functionality inside the APP.
+<p float="left">
+<img class="ui small image" src="../images/SignInUHSHield.png" alt="signIn" width="100">
+<img class="ui small image" src="../images/MyEventUHShield.png" alt="my events" width="100">
+<img class="ui small image" src="../images/BadgesUHShield.png" alt="badges" width="100">
+  <img class="ui small image" src="../images/EventsUHShield.png" alt="events" width="100">
+  </p>
   
   some of functionality that I am proud with are 
   - Implementing a QR-Code generator for each guest
@@ -51,7 +60,7 @@ In this project, my job is focus on UI design and some core functionality. I des
    
   - Scanning QR-Code to check in functionality.
   
-   <img class="ui large image" src="../images/manoalist-rating.png" alt="scan">
+   <img class="ui small image" src="../images/scan.jpg" alt="scan">
   
 ## My Gain
 
