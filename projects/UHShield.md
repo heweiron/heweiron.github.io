@@ -26,6 +26,9 @@ summary: Mobile APP for UH buildings staffs to manage access of the building.
 ## Project Overview
 
 Some UH buildings required significant access control, and the building security of unknown vistor become a very big problem. UH staffs had to share a spreedsheet to record all the guest and manually review the sheet for all guest and physically monitor those suspicious visitors. To provide more convienence to UH staffs, we building this mobile APP called UHShield. UHShield is a powerful APP that can easily setup new event and invite guest to come to the building and efficiently check with guest identity and provide security to the building.
+
+<div class="ui embed" data-source="youtube" data-id="8VeOoCce8Pk" >
+</div>
  
 ### For Sponsor:
 
@@ -48,11 +51,7 @@ Some UH buildings required significant access control, and the building security
 
 In this project, my job is focus on UI design and some core functionality. I designed sign in, sign up views, event row UI, and sponsor manage events view UI. I am proud of building a QR-Code generator and scanning functionality for eadily check in. In addition, I also make contribution on sending eamil functionality inside the APP.
 <p float="left">
-<img class="ui small image" src="../images/SignInUHSHield.png" alt="signIn" width="100">
-<img class="ui small image" src="../images/MyEventUHShield.png" alt="my events" width="100">
-<img class="ui small image" src="../images/BadgesUHShield.png" alt="badges" width="100">
-  <img class="ui small image" src="../images/EventsUHShield.png" alt="events" width="100">
-  </p>
+<img class="ui small image" src="../images/SignInUHSHield.png" alt="signIn" width="100"><img class="ui small image" src="../images/MyEventUHShield.png" alt="my events" width="100"><img class="ui small image" src="../images/BadgesUHShield.png" alt="badges" width="100"><img class="ui small image" src="../images/EventsUHShield.png" alt="events" width="100"></p>
   
   some of functionality that I am proud with are 
   - Implementing a QR-Code generator for each guest
@@ -69,4 +68,4 @@ In this project, my job is focus on UI design and some core functionality. I des
   
 Devpost Page: <a href="https://devpost.com/software/uhshield">UHShield</a>
 
-Source : <a href="https://github.com/HACC2020/Trigeeks"><i class="large github icon"> UHShield </a>
+Source : <a href="https://github.com/HACC2020/Trigeeks"><i class="large github icon">UHShield</a>
