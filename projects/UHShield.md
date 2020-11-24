@@ -67,6 +67,6 @@ In this project, my job is focus on UI design and some core functionality. I des
   From this project, I learned how to work with others to finish a team project. I also enhanced my skill of using Xcode and code with SwiftUI. This project is also my first experience on attending a competition like event. It is my hornor to work with my wonderful teammates.
   
   
-Devpost Page: <a href="https://devpost.com/software/uhshield">UhShield</a>
+Devpost Page: <a href="https://devpost.com/software/uhshield">UHShield</a>
 
-Source : <a href="https://github.com/HACC2020/Trigeeks"><i class="large github icon "></i>UHShield</a>
+Source : <a href="https://github.com/HACC2020/Trigeeks"><i class="large github icon"> UHShield </a>
