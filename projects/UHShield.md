@@ -72,4 +72,5 @@ In this project, my job is focus on UI design and some core functionality. I des
   
 Devpost Page: <a href="https://devpost.com/software/uhshield">UHShield</a>
 
-Source : <a href="https://github.com/HACC2020/Trigeeks"><i class="large github icon">UHShield</a>
+Github Repo Source : <a href="https://github.com/HACC2020/Trigeeks"><i class="large github icon "></i>UHShield</a>
+  
