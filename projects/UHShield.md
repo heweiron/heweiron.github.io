@@ -12,15 +12,17 @@ labels:
   - Firebase
   - Security
 
-summary: Mobile APP for UH buildings staffs to manage access of the building.
+summary: HACC 2020 3rd place solution which is a mobile APP for UH buildings staffs to manage access of the building.
 ---
+
+<img class="ui circular image" src="../images/uhShield.png" alt="logo">
+
+## HACC 2020
+<a href="https://hacc.hawaii.gov/">Hawaii Annual Code Challenge</a> is a hackathon that encouraged civic engagement with the local technology community in modernizing state functions and services for a more effective, efficient and open government. Participants can form a team and select one of the challenges from the list and provide their unique solution for it. This year, I attended HACC 2020 and won <i class="yellow star icon"></i>THIRD PLACE with this project.
 
 <div class="ui medium rounded images">
   <img class="ui image" src="https://hacc.hawaii.gov/wp-content/uploads/2020/03/Combined-Logos.png" alt="HACC">
 </div>
-
-## HACC 2020
-<a href="https://hacc.hawaii.gov/">Hawaii Annual Code Challenge</a> is a hackathon that encouraged civic engagement with the local technology community in modernizing state functions and services for a more effective, efficient and open government. Participants can form a team and select one of the challenges from the list and provide their unique solution for it. This year, I attended HACC 2020 and won THIRD PLACE with this project.
 
 ## Project Overview
 
@@ -48,7 +50,7 @@ Some UH buildings required significant access control, and the building security
    
 ## My Contribution
 
-In this project, my job is focus on UI design and some core functionality. I designed sign in, sign up views, event row UI, and sponsor manage events view UI. I am proud of building a QR-Code generator and scanning functionality for eadily check in. In addition, I also make contribution on sending eamil functionality inside the APP.
+In this project, my job is focus on UI design and some core functionality. I designed sign in, sign up views, event row UI, and sponsor manage events view UI. In addition, I made the video above which presenting APP functionality. What's more, I also make contribution on some important functionality, I am proud of building a QR-Code generator, scanning functionality for eadily check in and sending eamil functionality inside the APP.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/SignInUHSHield.png" alt="signIn">
@@ -67,8 +69,16 @@ In this project, my job is focus on UI design and some core functionality. I des
   
 ## My Gain
 
-  From this project, I learned how to work with others to finish a team project. I also enhanced my skill of using Xcode and code with SwiftUI. This project is also my first experience on attending a competition like event. It is my hornor to work with my wonderful teammates.
+  From this project, I learned how to work with others to finish a team project. My teammates Tianhui Zhou, Yuhan Jiang and I form a team called Trigeeks. We could not won the price without their help. As a team, we worked together and each of us on charge different area. My mainly focus part is UI design. Therefore, I tried so hard to come up different versions of UI and choose the best one. We only get couple weeks to finish this project but the fact is that we did a great job on it with this short period and we won the 3rd place. I will say we deserve it and our effort does not waste.
   
+  In addition, I also enhanced my skill of using Xcode and code with SwiftUI. To be honest, I just started learning how to build a APP this year. I think attending HACC2020 is a great opportunity to exam what I have learned, and I feel I am comfortable with coding with Swift. It is a powerful language and building an actual running APP from it gave me plenty gratification.
+  
+  This project is also my first experience on attending a competition like event. We not only need to write code, but also need to present our product in front of hundreds of people which includes many respectable professors and even governor David Ige. The presentation made us nervous but we came over it! I produced the demo video (first time as well), and pratice a lot before the review day. And guess what, we did a extremely great job.
+  
+  In conclusion, I will say attending HACC 2020 and making this project UHShield is a great experience in my life. I paid a lot to it and learned a lot from it.
+  
+  
+  Here is the link to the project app devpost page and github repository.
   
 Devpost Page: <a href="https://devpost.com/software/uhshield">UHShield</a>
 
