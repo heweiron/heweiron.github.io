@@ -15,9 +15,8 @@ labels:
 summary: Mobile APP for UH buildings staffs to manage access of the building.
 ---
 
-<div class="ui big rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="https://hacc.hawaii.gov/wp-content/uploads/2020/03/Combined-Logos.png" alt="HACC">
-
 </div>
 
 ## HACC 2020
@@ -50,8 +49,13 @@ Some UH buildings required significant access control, and the building security
 ## My Contribution
 
 In this project, my job is focus on UI design and some core functionality. I designed sign in, sign up views, event row UI, and sponsor manage events view UI. I am proud of building a QR-Code generator and scanning functionality for eadily check in. In addition, I also make contribution on sending eamil functionality inside the APP.
-<p float="left">
-<img class="ui small image" src="../images/SignInUHSHield.png" alt="signIn" width="100"><img class="ui small image" src="../images/MyEventUHShield.png" alt="my events" width="100"><img class="ui small image" src="../images/BadgesUHShield.png" alt="badges" width="100"><img class="ui small image" src="../images/EventsUHShield.png" alt="events" width="100"></p>
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/SignInUHSHield.png" alt="signIn">
+  <img class="ui image" src="../images/MyEventUHShield.png" alt="my events">
+  <img class="ui image" src="../images/BadgesUHShield.png" alt="badges">
+  <img class="ui image" src="../images/EventsUHShield.png" alt="events">
+</div>
   
   some of functionality that I am proud with are 
   - Implementing a QR-Code generator for each guest
