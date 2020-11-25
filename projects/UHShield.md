@@ -15,7 +15,7 @@ labels:
 summary: HACC 2020 3rd place solution which is a mobile APP for UH buildings staffs to manage access of the building.
 ---
 
-<img class="ui circular image" src="../images/uhShield.png" alt="logo">
+<img class="ui right floated small circular image" src="../images/uhShield.png" alt="logo">
 
 ## HACC 2020
 <a href="https://hacc.hawaii.gov/">Hawaii Annual Code Challenge</a> is a hackathon that encouraged civic engagement with the local technology community in modernizing state functions and services for a more effective, efficient and open government. Participants can form a team and select one of the challenges from the list and provide their unique solution for it. This year, I attended HACC 2020 and won <i class="yellow star icon"></i>THIRD PLACE with this project.
