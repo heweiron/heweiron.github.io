@@ -2,7 +2,7 @@
   "basics": {
     "name": "Weirong He",
     "label": "Student",
-    "picture": "https://heweiron.github.io/images/me.jpeg",
+    "picture": "https://heweiron.github.io/images/me.png",
     "email": "heweiron@hawaii.edu",
     "phone": "808-589-7291",
     "website": "https://heweiron.github.io",
@@ -51,9 +51,11 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Semantic UI"
+        "Semantic UI",
+        "Swift"
       ]
     },
     {
@@ -93,17 +95,17 @@
       "startDate": "2020-01-13",
       "endDate": "Present",
       "gpa": "4.0",
-      "courses": [ICS 311, ICS 314
+      "courses": [ICS 311, ICS 314, ICS 321, ICS 332, ICS 491
       ]
     }
   ],
   "work": [
     {
       "company": "Kirin Restaurant",
-      "position": "Busser",
+      "position": "Waitor",
       "website": "",
       "startDate": "2016-05-20",
-      "endDate": "Present",
+      "endDate": "2020-03-12",
       "summary": "",
       "highlights": [
       ]
