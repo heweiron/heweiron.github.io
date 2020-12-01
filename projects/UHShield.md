@@ -50,7 +50,7 @@ Some UH buildings required significant access control, and the building security
    
 ## My Contribution
 
-In this project, my job is focus on UI design and some core functionality. I designed sign in, sign up views, event row UI, and sponsor manage events view UI. In addition, I made the video above which presenting APP functionality. What's more, I also make contribution on some important functionality, I am proud of building a QR-Code generator, scanning functionality for eadily check in and sending eamil functionality inside the APP.
+In this project, my job is focus on UI design and some core functionality. I designed sign in, sign up views, event row UI, and sponsor manage events view UI. In addition, I made the video above which presenting APP functionality.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/SignInUHSHield.png" alt="signIn">
@@ -59,13 +59,12 @@ In this project, my job is focus on UI design and some core functionality. I des
   <img class="ui image" src="../images/EventsUHShield.png" alt="events">
 </div>
   
-  some of functionality that I am proud with are 
+   What's more, I also make contribution on some important functionalities, which are 
   - Implementing a QR-Code generator for each guest
   - Building send email functionality inside the APP which can help send QR-Code to invited guests.
    
   - Scanning QR-Code to check in functionality.
   
-   <img class="ui small image" src="../images/scan.jpg" alt="scan">
   
 ## My Gain
 
